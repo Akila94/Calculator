@@ -2,7 +2,7 @@ public class Calculator {
 
   public static main(String[] args) {
   
-    System.out.println("This is the calculator software of the company.");
+    System.out.println("This is the calculator software of the company called ABC.");
 
     System.out.println("Add plus functionality to the calculator.");
 
