@@ -6,8 +6,10 @@ public class Calculator {
 
     System.out.println("Add plus functionality to the calculator.");
 
-    System.out.println("Add minus functionality to the calculator.");
+    System.out.println("Improve the minus functionality of the calculator.");
 
     //Add a comment
+
+
   }
 }
